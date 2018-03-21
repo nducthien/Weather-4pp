@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_background"
+        android:title="Change Background">
+        <menu>
+            <item
+                android:id="@+id/pop_one"
+                android:title="Navy Blue"
+                android:icon="@drawable/pop_01"/>
+
+            <item
+                android:id="@+id/pop_two"
+                android:title="Orange"
+                android:icon="@drawable/pop_02"/>
+
+            <item
+                android:id="@+id/pop_three"
+                android:title="Midnight Blue"
+                android:icon="@drawable/pop_03"/>
+            <item
+                android:id="@+id/pop_four"
+                android:title="Violet"
+                android:icon="@drawable/pop_04"/>
+
+            <item
+                android:id="@+id/pop_five"
+                android:title="Pink"
+                android:icon="@drawable/pop_05"/>
+        </menu>
+
+    </item>
+
+</menu>
